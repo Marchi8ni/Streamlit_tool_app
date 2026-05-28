@@ -38,3 +38,19 @@ CSV_COL_DISTANCE_KM = "vzdalenost_km"
 CSV_COL_STATUS      = "stav"
 CSV_STATUS_OK       = "ok"
 CSV_STATUS_ERROR    = "chyba"
+
+# --- XLSX procesor – pořadí sloupců ---
+XLSX_COLUMN_SEQUENCE = [
+    "Popisky řádků",
+    "LOVODASA 26+13S",
+    "LOVOFERT LAD 27",
+    "LOVOFERT LAS 24+6S",
+    "LOVOFERT LAV 27",
+    "LOVOFERT CN 15",
+    "LOVOFERT CN 15,5 GG",
+    "LOVOFERT CN 15,5 GG+B",
+    "LOVODAM 30",
+    "ZENFERT 24 N",
+    "LOVOFERT CN 15+B",
+    "Celkový součet",
+]
